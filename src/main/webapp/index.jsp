@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<h1>Create Resume</h1>
+<h1>Resume</h1>
 
 <form onsubmit="generateResume(event)">
     Name: <input type="text" id="name"><br><br>
